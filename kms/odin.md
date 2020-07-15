@@ -1,6 +1,6 @@
 # KMS Odin
 
-![KMS Odin](https://azurlane.koumakan.jp/w/images/5/58/Odin.png)
+> [wiki](https://azurlane.koumakan.jp/Odin)
 
 If you don't account for cuteness or sex appeal, I'd consider Odin most interesting of them.
 She has a very strong contrast to her artwork, hence the KMS color palette.

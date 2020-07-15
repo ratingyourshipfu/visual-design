@@ -1,3 +1,3 @@
 # FFNF Champagne
 
-![FFNF Champagne](https://azurlane.koumakan.jp/w/images/0/05/Champagne.png)
+> [wiki](https://azurlane.koumakan.com/Champagne)

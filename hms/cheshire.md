@@ -1,6 +1,6 @@
 # HMS Cheshire
 
-![HMS Cheshire](https://azurlane.koumakan.jp/w/images/2/28/Cheshire.png)
+> [wiki](https://azurlane.koumakan.jp/Cheshire)
 
 Cheshire adds a little moe and spice to the set of HMS vanguard ships which most dominantly consists out of maids and service personal and combines this with decorative elements found on the HMS main line ships (which are mostly nobles), making her stand out of most of the other HMS ships, there are exceptions but none fits in the same way they also stand out as her.
 
